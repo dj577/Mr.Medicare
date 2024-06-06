@@ -1,0 +1,2 @@
+# Mr.Medicare
+Django Project
